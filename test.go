@@ -6,7 +6,7 @@ package testclient
 import (
 	"context"
 
-	"github.com/logan-liang/test"
+	"github.com/logan-liang/test/test"
 
 	"github.com/tal-tech/go-zero/zrpc"
 )
